@@ -123,3 +123,14 @@ fetchRelatedTourism("서울")
   .catch(err => {
     console.error("데이터 조회 실패:", err);
   });
+
+
+## 🙋‍♂️ 개발자 정보
+
+- 이름: 엄태훈  
+- 이메일: am2869@naver.com  
+- GitHub: [https://github.com/umteahoon](https://github.com/umteahoon)
+
+- 이름: 손우혁  
+- 이메일: woo2483@naver.com  
+- GitHub: [https://github.com/Last55](https://github.com/Last55)
